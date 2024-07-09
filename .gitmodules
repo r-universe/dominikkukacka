@@ -1,5 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "currencyapi"]
+	path = currencyapi
+	url = https://github.com/cran/currencyapi
+[submodule "emailvalidation"]
+	path = emailvalidation
+	url = https://github.com/cran/emailvalidation
+[submodule "freecurrencyapi"]
+	path = freecurrencyapi
+	url = https://github.com/cran/freecurrencyapi
+[submodule "ipbase"]
+	path = ipbase
+	url = https://github.com/cran/ipbase
+[submodule "iplookupapi"]
+	path = iplookupapi
+	url = https://github.com/cran/iplookupapi
+[submodule "vatcheckapi"]
+	path = vatcheckapi
+	url = https://github.com/cran/vatcheckapi
