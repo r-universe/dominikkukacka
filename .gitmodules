@@ -17,6 +17,9 @@
 [submodule "iplookupapi"]
 	path = iplookupapi
 	url = https://github.com/cran/iplookupapi
+[submodule "screenshotbase"]
+	path = screenshotbase
+	url = https://github.com/cran/screenshotbase
 [submodule "vatcheckapi"]
 	path = vatcheckapi
 	url = https://github.com/cran/vatcheckapi
